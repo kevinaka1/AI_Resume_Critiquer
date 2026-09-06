@@ -20,7 +20,6 @@ st.title("AI Resume Critiquer")
 
 
 st.markdown("Upload your resume and get AI-powered feedback tailored to your needs!")
-st.title("hello")
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
